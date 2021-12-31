@@ -1,0 +1,10 @@
+
+[common]
+server_addr = bj.frps.zibuyu.cc
+server_port = 7000
+token = rPNsJyfG9xZTsDGwCnmX
+[proxy-ssh-]
+type = tcp
+local_ip = 127.0.0.1
+local_port = 22
+remote_port = 4005

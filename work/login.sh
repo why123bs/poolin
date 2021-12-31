@@ -1,0 +1,1 @@
+sudo  zhcon --utf8
